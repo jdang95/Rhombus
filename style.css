@@ -1,10 +1,11 @@
 body{
-  background-color: black;
+  background-color: #B6798F;
 }
 h1{
   text-align:center;
   color: white;
   font-size: 900%;
+
 }
 #upLeft {
 float: left;
@@ -27,7 +28,7 @@ clear: both;
 }
 
 .space{
-  color:black;
+  color:#B6798F;
 }
 
 
