@@ -1,3 +1,11 @@
+body{
+  background-color: black;
+}
+h1{
+  text-align:center;
+  color: white;
+  font-size: 900%;
+}
 #upLeft {
 float: left;
 
@@ -19,6 +27,7 @@ clear: both;
 }
 
 .space{
-  color: white;
+  color:black;
 }
+
 
